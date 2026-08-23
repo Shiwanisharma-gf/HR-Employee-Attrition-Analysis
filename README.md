@@ -5,8 +5,6 @@ In this project, I analyzed an HR dataset to understand why employees leave comp
 
 I looked into things like work-life balance, burnout levels, salary, manager support, and even modern workplace factors like AI tool usage and job risk.
 
----
-
 ### 🛠️ Tools & Libraries Used
 
 * **Python**
@@ -14,8 +12,6 @@ I looked into things like work-life balance, burnout levels, salary, manager sup
 * **NumPy** (for numerical operations)
 * **Matplotlib** (for plotting graphs)
 * **Jupyter Notebook**
-
----
 
 ### 📂 About the Dataset
 
@@ -28,19 +24,15 @@ I looked into things like work-life balance, burnout levels, salary, manager sup
   * `uses_ai_tools_at_work`, `perceived_ai_job_risk`
   * `attrition` (Target variable: Yes / No)
 
----
-
 ### 🔍 Key Questions Explored
 
 1. How do high **burnout scores** and low **work-life balance** affect attrition?
 2. Does **manager support** play a role in keeping employees in the company?
 3. How does **salary/job level** impact turnover?
 4. Are employees who feel insecure about **AI tools taking over jobs** more likely to leave?
-
----
-
+5. 
 ### 🚀 How to Run This Project
 
 1. Clone this repository:
-   ```bash
+   bash
    git clone [https://github.com/your-username/HR-Analytics-Attrition.git](https://github.com/your-username/HR-Analytics-Attrition.git)
